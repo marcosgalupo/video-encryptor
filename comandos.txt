@@ -1,0 +1,3 @@
+Fragmentar video
+
+bento4/bin/mp4fragment encryptor/video-encryptor/app/videopequeno.mp4 encryptor/video-encryptor/app/videopequeno-frag.mp4
